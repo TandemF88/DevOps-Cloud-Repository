@@ -3,9 +3,9 @@ $ProgressPreference = 'SilentlyContinue'
             'Windows 10+ & Server 2012+' = 'd6dfa4a7ef5247c99b08d0c044266392'
             'Windows 7, 8, and Server 2008R2 [CE]' = 'a72ddaba42c8417ba177fddd6ff8b991'
         }
-        $portalFQDN = 'bswhealth.xdr.us.paloaltonetworks.com'
+        $portalFQDN = ''
         $apiID = '6'
-        $apiKey = 'g936h0rYBv36RXKbmhhAXV1X7XR6raKn5Zv6LjBCyn757sHxF9btiewwJuWKYKVYr4NYnOptP96GxY0W4UZCbWxvu73WKeRyxc6D0MJJZSoOrJyMBx612SSTnQaBl3XI'
+        $apiKey = ''
 
         # .NET Dependencies
         $ndps = @{
